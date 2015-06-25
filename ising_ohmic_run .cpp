@@ -1,4 +1,4 @@
-//三回目のテスト
+//２回目のテスト
 
 // ising_ohmic_test2 ... ohmic, remove boost
 // ising_ohmic_test3 ... use of mpich, gather data
